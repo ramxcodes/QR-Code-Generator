@@ -1,2 +1,3 @@
 # QR-Code-Generator
 Generate Any QR code on this website for free......
+Link- https://ramxcodes.github.io/QR-Code-Generator/
